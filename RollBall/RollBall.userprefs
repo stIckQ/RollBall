@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="RollBall.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Simple UI\Fonts\OFL.txt">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\PlayerCameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Simple UI\Fonts\OFL.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
